@@ -1,0 +1,21 @@
+.input {
+    border: none;
+    background-color: #181818;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17.6px;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.input-title {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40.22px;
+}
+
+.invalid {
+    border: 1px solid red;
+}

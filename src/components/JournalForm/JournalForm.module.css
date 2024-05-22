@@ -1,0 +1,37 @@
+.journal-form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.form-label {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    min-width: 150px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.input-container {
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 1px solid #FFFFFF1A;
+}
+
+.input {
+    border: none;
+    background-color: #181818;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17.6px;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.invalid {
+    border: 1px solid red;
+}
