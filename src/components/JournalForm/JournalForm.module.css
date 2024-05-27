@@ -35,3 +35,12 @@
 .invalid {
     border: 1px solid red;
 }
+
+.btn-delete {
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}

@@ -14,6 +14,8 @@
     font-size: 32px;
     font-weight: 600;
     line-height: 40.22px;
+    display: flex;
+    flex-grow: 1;
 }
 
 .invalid {
